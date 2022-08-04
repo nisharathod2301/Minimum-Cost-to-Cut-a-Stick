@@ -1,3 +1,7 @@
+/*Logic : We first make sort the array make a cut iterating through each cut indexes, we divide the
+problem in to subproblem of left anf right side solve them recursively, we finnaly add up the answer. 
+We return the minimum value for cuts*/
+
 class Solution {
 public:
     
